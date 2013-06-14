@@ -40,8 +40,8 @@
     </script>
   </head>
   <body>
-<? require('header.php'); ?>
+<? require 'header.php'; ?>
     <div id="map-canvas"></div>
-<? require 'analytics.php'; ?>
+<? require 'footer.php'; ?>
   </body>
 </html>
