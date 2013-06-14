@@ -42,5 +42,6 @@
   <body>
 <? require('header.php'); ?>
     <div id="map-canvas"></div>
+<? require 'analytics.php'; ?>
   </body>
 </html>
