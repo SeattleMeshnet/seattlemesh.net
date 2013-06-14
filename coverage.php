@@ -27,7 +27,7 @@
             $jsvar = str_replace("-", "", $jsvar);
             $jsvar = "layer".$jsvar;
             echo "        var $jsvar = new google.maps.KmlLayer({\n";
-            echo "            url: 'http://www.seattlemesh.net/maps/$file'\n";
+            echo "            url: 'https://www.seattlemesh.net/maps/$file'\n";
             echo "        });\n";
             echo "        $jsvar.setMap(map);\n\n\n";
         }
