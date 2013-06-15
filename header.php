@@ -1,4 +1,4 @@
-<div class="navbar navbar-fixed-top">
+<div class="navbar<? if(isset($navbarclass)) {echo " ".$navbarclass;} ?>">
   <div class="navbar-inner">
     <a class="brand" href="/">Seattle Meshnet</a>
     <ul class="nav">

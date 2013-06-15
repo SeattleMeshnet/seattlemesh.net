@@ -40,7 +40,10 @@
     </script>
   </head>
   <body>
-<? require 'header.php'; ?>
+<?
+    $navbarclass="navbar-fixed-top";
+    require 'header.php';
+    ?>
     <div id="map-canvas"></div>
 <? require 'footer.php'; ?>
   </body>
