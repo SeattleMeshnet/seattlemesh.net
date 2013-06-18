@@ -10,16 +10,14 @@
     <link rel="stylesheet" href="assets/css/coverage.css" />
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
     <script>
-        var map;
         function initialize() {
-            var seattle = new google.maps.LatLng(-122.2930339, 47.5832951);
             var mapOptions = {
                 zoom: 11,
-                center: seattle,
+                center: new google.maps.LatLng(-122.2930339, 47.5832951);,
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             }
 
-            map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+            var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
 <?
     foreach(scandir("maps/") as $file) {
@@ -28,7 +26,7 @@
             $jsvar = str_replace("-", "", $jsvar);
             $jsvar = "layer".$jsvar;
             echo "            var $jsvar = new google.maps.KmlLayer({\n";
-            echo "                url: 'https://www.seattlemesh.net/maps/$file'\n";
+            echo "                url: 'https://seattlemesh.net/maps/$file'\n";
             echo "            });\n";
             echo "            $jsvar.setMap(map);\n\n\n";
         }
