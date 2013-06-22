@@ -12,8 +12,6 @@
             <div class="offset1 span10">
                 <p class="lead">Get involved!</p>
                 <p>
-                    We're trying to decentralize the internet. Come join us.<br />
-                    
                     The most valuable thing you likely have is your house, aparement,
                     whatever. Somewhere that you can stick a node. A node is just 
                     a peice of wireless equipment that can communicate with other nodes.
