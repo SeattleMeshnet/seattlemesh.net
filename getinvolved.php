@@ -31,7 +31,7 @@
                     Doesn't have to be computery, we need all sorts of people.
                 </p>
                 
-                <p>A final note, as requested by <pre>jasons</pre>, a good way to support us is to 
+                <p>A final note, as requested by jasons, a good way to support us is to 
                 <a href="https://fund.meshwith.me">donate munnies</a>.</p>
 
             </div>
