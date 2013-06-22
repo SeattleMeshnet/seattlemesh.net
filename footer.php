@@ -1,3 +1,10 @@
+<div id="push"></div>
+</div>
+<div id="footer">
+  <div class="container">
+    <p class="muted">Is this site unclear, broken, or otherwise sucky? <a href="https://github.com/seattlemeshnet/seattlemesh.net">Come fix it!</a>, or at least <a href="https://github.com/seattlemeshnet/seattlemesh.net/issues">file an issue</a>.</p>
+  </div>
+</div>
 <script src="assets/js/jquery-2.0.2.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
 <!-- Piwik -->

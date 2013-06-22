@@ -4,9 +4,6 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <title>Seattle Meshnet Project</title>
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-responsive.min.css" />
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css" />
     <link rel="stylesheet" href="assets/css/coverage.css" />
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
     <script>
@@ -37,8 +34,6 @@
         google.maps.event.addDomListener(window, 'load', initialize);
 
     </script>
-  </head>
-  <body>
 <?
     $navbarclass="navbar-fixed-top";
     require 'header.php';

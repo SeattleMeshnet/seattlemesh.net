@@ -2,11 +2,6 @@
 <html lang="en">
     <head>
         <title>Seattle Meshnet Project</title>
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="assets/css/bootstrap-responsive.min.css" />
-        <link rel="stylesheet" href="assets/css/font-awesome.min.css" />
-    </head>
-    <body>
         <? require 'header.php'; ?>
         <div class="hero-unit">
             <h1>Seattle Meshnet</h1>
