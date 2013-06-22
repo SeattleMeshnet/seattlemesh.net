@@ -36,9 +36,9 @@
     </script>
 <?
     $navbarclass="navbar-fixed-top";
+    $map = true;
     require 'header.php';
-    ?>
-    <div id="map-canvas"></div>
-<? require 'footer.php'; ?>
+    ?><div id="map-canvas"></div><?
+    require 'footer.php'; ?>
   </body>
 </html>

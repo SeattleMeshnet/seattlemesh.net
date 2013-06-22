@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="assets/css/global.css" />
 </head>
 <body>
-    <div id="wrap">
+    <? if(!isset($map)) { ?><div id="wrap"><? } ?>
         <div class="navbar<? if(isset($navbarclass)) {echo " ".$navbarclass;} ?>">
           <div class="navbar-inner">
             <a class="brand" href="/">Seattle Meshnet</a>
