@@ -5,7 +5,7 @@
         <? require 'header.php'; ?>
         <div class="container-fluid">
             <div class="offset1 span10">
-                <p class="lead">THe Seattle Meshnet primarily uses
+                <p class="lead">The Seattle Meshnet primarily uses
                 <a href="https://github.com/cjdelisle/cjdns">CJDNS</a> for secure,
                 decentralized mesh networking</p>
                 <p>
