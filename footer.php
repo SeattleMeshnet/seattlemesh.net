@@ -2,7 +2,7 @@
 </div>
 <div id="footer">
   <div class="container">
-    <p class="muted">Is this site unclear, broken, or otherwise sucky? <a href="https://github.com/seattlemeshnet/seattlemesh.net">Come fix it!</a>, or at least <a href="https://github.com/seattlemeshnet/seattlemesh.net/issues">file an issue</a>.</p> | Find out on <a href="https://twitter.com/SeattleMeshnet">Twitter</a> or <a href="https://plus.google.com/115255714857352945194" rel="publisher">Google+</a>
+    <p class="muted">Is this site unclear, broken, or otherwise sucky? <a href="https://github.com/seattlemeshnet/seattlemesh.net">Come fix it!</a>, or at least <a href="https://github.com/seattlemeshnet/seattlemesh.net/issues">file an issue</a>. | Find us on <a href="https://twitter.com/SeattleMeshnet">Twitter</a> or <a href="https://plus.google.com/115255714857352945194" rel="publisher">Google+</a></p>
   </div>
 </div><? } ?>
 <script src="assets/js/jquery-2.0.2.min.js"></script>
