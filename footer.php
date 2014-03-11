@@ -15,7 +15,7 @@
   _paq.push(["enableLinkTracking"]);
 
   (function() {
-    var u="https://analytics.seattlemesh.net/piwik/";
+    var u="https://analytics.seattlemesh.net/";
     _paq.push(["setTrackerUrl", u+"piwik.php"]);
     _paq.push(["setSiteId", "6"]);
     var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
