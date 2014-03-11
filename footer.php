@@ -15,7 +15,7 @@
   _paq.push(["enableLinkTracking"]);
 
   (function() {
-    var u="https://thefinn93.com/piwik/";
+    var u="https://analytics.seattlemesh.net/piwik/";
     _paq.push(["setTrackerUrl", u+"piwik.php"]);
     _paq.push(["setSiteId", "6"]);
     var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
