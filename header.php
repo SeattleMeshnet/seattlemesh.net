@@ -16,6 +16,7 @@
               <li><a href="http://chat.efnet.org:9090/?channels=%23seattlemeshnet">Chat</a></li>
               <li><a href="/cjdns">Software</a></li>
               <li><a href="http://pics.meshwith.me/">Node Pics</a></li>
+              <li><a href="https://lists.projectmesh.net/cgi-bin/mailman/listinfo/seattle">Mailing List</a></li>
             </ul>
           </div>
         </div>
