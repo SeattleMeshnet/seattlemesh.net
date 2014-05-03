@@ -13,7 +13,7 @@
 			Your time, money, voice, or roof can be of great help.</p>
 		<ul>
 			<li>
-				Attend one of our casual meetups that usually takes place at <a href="http://www.airlighttimespace.org/location/">ALTSpace</a>. All are welcome (especially &quot;noobies&quot;)! Our meetups are usually on Fridays, but do first confirm (the day, time, and place of) the next meetup by reading (or just asking in the channel) the topic on our <a href="https://chat.projectmeshnet.org/#seattlemeshnet">IRC channel</a> (chat room).<br />
+				Attend one of our casual meetups that usually takes place at <a href="http://www.airlighttimespace.org/location/">ALTSpace</a>. All are welcome (especially &quot;noobies&quot;)! Our meetups are usually on Fridays, but do first confirm (the day, time, and place of) the next meetup by reading (or just asking in the channel) the topic on our <a href="http://chat.efnet.org:9090/?channels=%23seattlemeshnet">IRC channel</a> (chat room).<br />
 				&nbsp;</li>
             <li>
     			Help <a href="https://fund.meshwith.me/">fund</a> the development of cjdns and the expansion of the meshnet.<br />
@@ -25,11 +25,8 @@
 				Tell all of your friends, family, neighbors, and everyone willing to listen about Seattle Meshnet.<br />
 				&nbsp;</li>
 			<li>
-				Find more information and answers to your questions, visit our: <a href="https://wiki.projectmeshnet.org/Seattle_Meshnet">Wiki</a>, <a href="https://chat.projectmeshnet.org/#seattlemeshnet">IRC channel</a> (chat room), <a href="http://www.reddit.com/r/seattlemeshnet">Subreddit</a>, <a href="https://twitter.com/seattlemeshnet">Twitter</a>, or our infrequent <a href="https://groups.google.com/forum/?fromgroups#!forum/seattlemeshnet">mailing list</a>.</li>
+				Find more information and answers to your questions, visit our: <a href="https://wiki.projectmeshnet.org/Seattle_Meshnet">Wiki</a>, <a href="https://chat.projectmeshnet.org/#seattlemeshnet">IRC channel</a> (chat room), <a href="http://www.reddit.com/r/seattlemeshnet">Subreddit</a>, <a href="https://twitter.com/seattlemeshnet">Twitter</a>, or our infrequent <a href="https://lists.projectmesh.net/cgi-bin/mailman/listinfo/seattle">mailing list</a>.</li>
 		</ul>
-                
-          
-
             </div>
         </div>
         <? require 'footer.php'; ?>
