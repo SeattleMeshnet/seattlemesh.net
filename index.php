@@ -10,7 +10,7 @@
             <a class="btn btn-primary btn-large" href="/about">
                 <i class="icon-info-sign"></i> Learn More
             </a>
-            <a class="btn btn-info btn-large" href="https://fund.meshwith.me/">
+            <a class="btn btn-info btn-large" href="https://donate.meshwith.me/">
                 <i class="icon-btc"></i><i class="icon-usd"></i> Donate
             </a>
             <a class="btn btn-success btn-large" href="/map">
