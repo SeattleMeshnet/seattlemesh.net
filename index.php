@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <title>Seattle Meshnet Project</title>
-        <? require 'header.php'; ?>
+        <?php require 'header.php'; ?>
         <div class="hero-unit" itemscope itemtype="http://schema.org/LocalBusiness">
             <h1 itemprop="name">Seattle Meshnet</h1>
             <p>Building a decentralized, distributed mesh network in Seattle, Washington</p>
@@ -20,6 +20,6 @@
             <meta itemprop="url" content="https://seattlemesh.net">
             <meta itemprop="email" content="info@seattlemesh.net">
         </div>
-        <? require 'footer.php'; ?>
+        <?php require 'footer.php'; ?>
     </body>
 </html>

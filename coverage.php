@@ -34,11 +34,11 @@
         google.maps.event.addDomListener(window, 'load', initialize);
 
     </script>
-<?
+<?php
     $navbarclass="navbar-fixed-top";
     $map = true;
     require 'header.php';
-    ?><div id="map-canvas"></div><?
+    ?><div id="map-canvas"></div><?php
     require 'footer.php'; ?>
   </body>
 </html>

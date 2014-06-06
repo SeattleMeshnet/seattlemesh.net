@@ -1,10 +1,10 @@
-<? if(!isset($map)) { ?><div id="push"></div>
+<?php if(!isset($map)) { ?><div id="push"></div>
 </div>
 <div id="footer">
   <div class="container">
     <p class="muted">Is this site unclear, broken, or otherwise sucky? <a href="https://github.com/seattlemeshnet/seattlemesh.net">Come fix it!</a>, or at least <a href="https://github.com/seattlemeshnet/seattlemesh.net/issues">file an issue</a>. | <a href="https://twitter.com/SeattleMeshnet">Twitter</a> | <a href="https://www.google.com/+SeattleMeshnet" rel="publisher">Google+</a> | <a href="http://www.reddit.com/r/seattlemeshnet">reddit</a></p>
   </div>
-</div><? } ?>
+</div><?php } ?>
 <script src="assets/js/jquery-2.0.2.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
 <!-- Piwik -->

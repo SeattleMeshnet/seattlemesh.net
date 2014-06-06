@@ -1,1 +1,1 @@
-<? header("Location: https://seattlemeshnet-nodeshot.appspot.com/");
+<?php header("Location: https://seattlemeshnet-nodeshot.appspot.com/");
