@@ -5,7 +5,8 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@seattlemeshnet">
     <meta name="twitter:title" content="Seatttle Meshnet">
-    <meta name="twitter:description" content="The Seattle Meshnet project is building a decentralized mesh network across the Seattle area">    
+    <meta name="twitter:image:src" content="https://seattlemesh.net/assets/img/seattlemeshnet.gif">
+    <meta name="twitter:description" content="The Seattle Meshnet project is building a decentralized mesh network across the Seattle area">
 </head>
 <body>
     <?php if(!isset($map)) { ?><div id="wrap"><? } ?>
