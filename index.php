@@ -17,8 +17,10 @@
                 <i class="icon-map-marker"></i> Get on the map
             </a>
             </p>
-            <meta itemprop="url" content="https://seattlemesh.net">
-            <meta itemprop="email" content="info@seattlemesh.net">
+            <meta itemprop="url" content="https://seattlemesh.net" />
+            <meta itemprop="email" content="info@seattlemesh.net" />
+            <meta itemprop="logo" content="https://seattlemesh.net/assets/img/seattlemeshnet.gif" />
+            <meta itemprop="telephone" content="(206) 388-5283" />
         </div>
         <?php require 'footer.php'; ?>
     </body>
