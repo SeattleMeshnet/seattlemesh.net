@@ -9,8 +9,8 @@
     <meta name="twitter:description" content="The Seattle Meshnet project is building a decentralized mesh network across the Seattle area">
 </head>
 <body>
-    <?php if(!isset($map)) { ?><div id="wrap"><? } ?>
-        <div class="navbar<? if(isset($navbarclass)) {echo " ".$navbarclass;} ?>">
+    <?php if(!isset($map)) { ?><div id="wrap"><?php } ?>
+        <div class="navbar<?php if(isset($navbarclass)) {echo " ".$navbarclass;} ?>">
           <div class="navbar-inner">
             <a class="brand" href="/">Seattle Meshnet</a>
             <ul class="nav">
