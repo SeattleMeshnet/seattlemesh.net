@@ -13,11 +13,11 @@
 			Your time, money, voice, or roof can be of great help.</p>
 		<ul>
 			<li>
-				Attend one of our casual meetups that usually takes place at <a href="http://www.airlighttimespace.org/location/">ALTSpace</a>. All are welcome (especially &quot;noobies&quot;)! Our meetups are usually on Fridays, but do first confirm (the day, time, and place of) the next meetup by reading (or just asking in the channel) the topic on our <a href="http://chat.efnet.org:9090/?channels=%23seattlemeshnet">IRC channel</a> (chat room).<br />
+				Attend one of our casual meetups that usually takes place at <a href="http://www.metrixcreatespace.com/">Metrix</a>. All are welcome (especially &quot;noobies&quot;)! Our meetups are usually on Fridays, but do first confirm (the day, time, and place of) the next meetup by reading (or just asking in the channel) the topic on our <a href="http://chat.efnet.org:9090/?channels=%23seattlemeshnet">IRC channel</a> (chat room).<br />
 				&nbsp;</li>
-            <li>
+            <!--<li>
     			Help <a href="https://fund.meshwith.me/">fund</a> the development of cjdns and the expansion of the meshnet.<br />
-				&nbsp;</li>
+				&nbsp;</li>-->
 			<li>
 				Help the meshnet grow by putting up a node (a piece of wireless equipment that connects to other nodes). Your roof may make a great home for a node.<br />
 				&nbsp;</li>
