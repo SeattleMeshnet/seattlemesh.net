@@ -18,7 +18,7 @@
               <li><a href="/map">Node Map</a></li>
               <li><a href="/coverage">Coverage Map</a></li>
               <li><a href="/about">About Us</a></li>
-              <li><a href="http://chat.efnet.org:9090/?channels=%23seattlemeshnet">Chat</a></li>
+              <li><a href="https://kiwiirc.com/client/irc.efnet.org/#seattlemesh.net">Chat</a></li>
               <li><a href="/cjdns">Software</a></li>
               <li><a href="https://lists.projectmesh.net/cgi-bin/mailman/listinfo/seattle">Mailing List</a></li>
             </ul>
